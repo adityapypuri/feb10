@@ -1,0 +1,11 @@
+n=int(input('enter number:'))
+if (n>0):
+  print('positive')
+else:
+  print ('negetive')
+  
+  
+  
+ output:
+ enter number:3
+ positive
